@@ -4,7 +4,7 @@
 
 exclude: [ "CNAME", "README.md", "LICENSE.txt", "tmp", "*.sh", "**/*_src*" ]
 permalink: /news/:year/:month/:day/:title.html
-production_url: https://warpspeed.faithlifenow.com/ga.html
+production_url: https://warpspeed.faithlifenow.com/
 title: Heatmap TV
 markdown: kramdown
 plugins:
